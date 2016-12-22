@@ -1,4 +1,4 @@
-<h2>ScoreNotification</h2>
+<h2>ScoreNotifier</h2>
 
 A python program that I learnt from internet as part of understanding python to get the live score of a cricket match 
 from cricinfo.com and display as notification on regular intervals.
